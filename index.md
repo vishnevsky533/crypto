@@ -6,4 +6,4 @@
 * Децентрализованные кошельки криптовалют. Metamask, Polkadot(.js), Phantom, Keplr, TronLink, Terra Station
 * Разобраться с отдельными ответвлениями в крипте ([NFT](https://ru.wikipedia.org/wiki/NFT), [IDO (Первичное децентрализованное предложение)](ido.md), [Амбассадорская программа](ambassador.md), 
 [GameFi](gamefi.md))
-* Функционал фарминга и стейтинга. [PancakeSwap](pancakeswap.finance).
+* Функционал фарминга и стейтинга. [PancakeSwap](https://pancakeswap.finance).
